@@ -1,0 +1,32 @@
+.black{
+    background-color:black;
+    height:50px;
+    width:50px;
+    }
+
+.white{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+
+table{
+    height: 650px;
+    width: 700px;
+    border: 2px solid black;
+    border-color: black;
+    border-collapse: collapse;
+}
+
+.num{
+    width: 15px;
+    border-color: black;
+    background-color: dimgrey;
+    
+}
+
+.num2{
+    height: 15px;
+    border-color: black;
+    background-color: dimgray;
+}
